@@ -1,0 +1,17 @@
+{
+  "name": "convex_db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'convex_db build'",
+    "dev": "echo 'convex_db dev'",
+    "lint": "echo 'convex_db lint'",
+    "check-types": "echo 'convex_db check-types'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
