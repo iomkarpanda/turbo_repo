@@ -1,13 +1,13 @@
 {
-  "name": "convex_db",
+  "name": "database",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo 'convex_db build'",
-    "dev": "echo 'convex_db dev'",
-    "lint": "echo 'convex_db lint'",
-    "check-types": "echo 'convex_db check-types'",
+"build": "echo 'database build'",
+"dev": "echo 'database dev'",
+"lint": "echo 'database lint'",
+"check-types": "echo 'database check-types'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
